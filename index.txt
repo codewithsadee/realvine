@@ -1,0 +1,235 @@
+Realvine - Choose your dream place
+
+
+
+#---------- HEADER ----------#
+
+<ion-icon name="business-outline"></ion-icon>
+Realvine
+
+Home
+Buy
+Sell
+Listing
+About Us
+Contact
+
+Signup
+
+aria-label = Toggle menu
+
+<ion-icon name="menu-outline" aria-hidden="true" class="menu-icon"></ion-icon>
+<ion-icon name="close-outline" aria-hidden="true" class="close-icon"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+We will help you find your Wonderful home
+
+A great plateform to buy, sell and rent your properties without any agent or commisions.
+
+Buy 
+Sell 
+Rent
+
+Search : *
+
+placeholder = Search your home
+
+<ion-icon name="search-outline"></ion-icon>
+
+Select Categories:
+
+House
+Apartment
+Offices
+Townhome
+
+Min Price :
+
+Min Price
+500
+1000
+2000
+3000
+4000
+5000
+6000
+
+Max Price :
+
+Max Price
+500
+1000
+2000
+3000
+4000
+5000
+6000
+
+Search now
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+aria-label = play video
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+
+Efficiency. Transparency. Control.
+
+Hously developed a platform for the Real Estate marketplace that allows buyers and sellers to easily execute a transaction on their own. The platform drives efficiency, cost transparency and control into the hands of the consumers. Hously is Real Estate Redefined.
+
+Learn More
+
+
+
+#---------- SERVICE ----------#
+
+How It Works
+
+A great plateform to buy, sell and rent your properties without any agent or commisions.
+
+<ion-icon name="home-outline"></ion-icon>
+
+Evaluate Property
+
+If the distribution of letters and 'words' is random, the reader will not be distracted from making.
+
+
+<ion-icon name="briefcase-outline"></ion-icon>
+
+Meeting with Agent
+
+
+<ion-icon name="key"></ion-icon>
+
+Close the Deal
+
+
+
+#---------- PROPERTY ----------#
+
+Featured Properties
+
+A great plateform to buy, sell and rent your properties without any agent or commisions.
+
+
+alt = 10765 Hillshire Ave, Baton Rouge, LA 70810, USA
+
+aria-label = add to favourite
+
+<ion-icon name="heart" aria-hidden="true"></ion-icon>
+
+10765 Hillshire Ave, Baton Rouge, LA 70810, USA
+
+<ion-icon name="cube-outline"></ion-icon>
+8000sqf
+
+<ion-icon name="bed-outline"></ion-icon>
+4 Beds
+
+<ion-icon name="man-outline"></ion-icon>
+4 Baths
+
+Price
+$5000
+
+Rating
+<ion-icon name="star"></ion-icon>
+5.0(30)
+
+59345 STONEWALL DR, Plaquemine, LA 70764, USA
+
+3723 SANDBAR DR, Addis, LA 70710, USA
+
+LOT 21 ROYAL OAK DR, Prairieville, LA 70769, USA
+
+710 BOYD DR, Unit #1102, Baton Rouge, LA 70808, USA
+
+5133 MCLAIN WAY, Baton Rouge, LA 70809, USA
+
+
+
+#---------- CONTACT ----------#
+
+Have Question ? Get in touch!
+
+A great plateform to buy, sell and rent your properties without any agent or commisions.
+
+<ion-icon name="call-outline"></ion-icon>
+
+Contact us
+
+
+
+#---------- NEWSLETTER ----------#
+
+Subscribe to Newsletter!
+
+Subscribe to get latest updates and information.
+
+placeholder =  Enter your email :
+
+aria-label = Enter your email
+
+Subscribe
+
+
+
+#---------- FOOTER ----------#
+
+<ion-icon name="business-outline"></ion-icon>
+Realvine
+
+A great plateform to buy, sell and rent your properties without any agent or commisions.
+
+Company
+
+<ion-icon name="chevron-forward"></ion-icon>
+
+About us
+Services
+Pricing
+Blog
+Login
+
+Useful Links
+
+Terms of Services
+Privacy Policy
+Listing
+Contact
+
+Contact Details
+
+<ion-icon name="location-outline"></ion-icon>
+C/54 Northwest Freeway,
+Suite 558,
+Houston, USA 485
+
+View on Google map
+
+<ion-icon name="mail-outline"></ion-icon>
+contact@example.com
+
+<ion-icon name="call-outline"></ion-icon>
++152 534-468-854
+
+&copy; 2022 Realvine. All Right Reserved by codewithsadee.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
