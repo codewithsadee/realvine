@@ -197,6 +197,8 @@ body {
 
 .section { padding-block: var(--section-padding); }
 
+section[id] { scroll-margin-top: 80px; }
+
 .img-holder {
   aspect-ratio: var(--width) / var(--height);
   background-color: var(--gainsboro);

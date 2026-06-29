@@ -70,6 +70,17 @@ const tabBtns = document.querySelectorAll("[data-tab-btn]");
 
 let lastClickedTabBtn = tabBtns[0];
 
+const activateHeroTab = function (tabName) {
+  for (let i = 0; i < tabBtns.length; i++) {
+    if (tabBtns[i].textContent.trim() === tabName) {
+      lastClickedTabBtn.classList.remove("active");
+      tabBtns[i].classList.add("active");
+      lastClickedTabBtn = tabBtns[i];
+      break;
+    }
+  }
+}
+
 const changeTab = function () {
   lastClickedTabBtn.classList.remove("active");
   this.classList.add("active");
@@ -77,3 +88,16 @@ const changeTab = function () {
 }
 
 addEventOnElement(tabBtns, "click", changeTab);
+
+
+/**
+ * navbar buy/sell tab links
+ */
+
+const navTabLinks = document.querySelectorAll("[data-tab-target]");
+
+const handleNavTabLink = function () {
+  activateHeroTab(this.dataset.tabTarget);
+}
+
+addEventOnElement(navTabLinks, "click", handleNavTabLink);
